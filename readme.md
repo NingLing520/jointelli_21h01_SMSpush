@@ -51,7 +51,3 @@ DING_SECRET = "your_dingtalk_secret"              # 钉钉机器人加签secret
 ```bash
 python sms.py
 ```
-
-欢迎提交Issue和Pull Request！
-
-```
