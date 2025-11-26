@@ -3,6 +3,7 @@ Jointelli_21h01_短信推送
 ========================
 
 # 这是一个用于从金英拓联5G CPE EVO (型号: 21H01) 设备抓取短信并自动推送至钉钉群机器人的Python脚本。
+同品牌其他型号的5G CPE也可以尝试一下
 
 # 功能特点
 🔐 自动登录CPE: 使用salt和SHA256加密方式安全登录CPE设备后台
@@ -51,3 +52,4 @@ DING_SECRET = "your_dingtalk_secret"              # 钉钉机器人加签secret
 ```bash
 python sms.py
 ```
+
